@@ -51,7 +51,7 @@ for claim in fileContent:
             #     overlapped = True
             #     break
     # if overlapped == False:
-    #     print(idNumber)
+    #     print(idNumber) -
 
 counter = 0
 for row in fabric:
